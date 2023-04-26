@@ -3,9 +3,11 @@ on:
     push:
         branches:
             - 'dev'
+            - 'master'
     pull_request:
         branches:
             - 'main'
+            - 'master'
 
 env:
     HOST_NAME: ${{secrets.HOST_NAME}}
