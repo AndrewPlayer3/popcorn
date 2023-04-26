@@ -16,7 +16,6 @@ module.exports = {
     images: {
         domains: [
             'i.imgur.com',
-            'i.ytimg.com',
             'storage.googleapis.com',
             'localhost',
             'fletnix.vercel.app',
