@@ -16,10 +16,11 @@ module.exports = {
     images: {
         domains: [
             'i.imgur.com',
+            'i.ytimg.com',
             'storage.googleapis.com',
             'localhost',
-            'fletnix.vercel.app',
-            'fletnix-git-dev-andrewplayer3.vercel.app',
+            'popcorn-gamma.vercel.app',
+            'popcorn-git-dev-andrewplayer3.vercel.app',
         ],
     },
 }
